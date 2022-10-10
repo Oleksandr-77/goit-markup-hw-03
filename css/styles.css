@@ -52,9 +52,9 @@ body {
     border: 1px solid #ECECEC;
 }
 
-.menu-border:hover {
+/* .menu-border:hover {
     border: 1px solid var(--accent-color);
-}
+} */
 
 .logo {
     display: block;
