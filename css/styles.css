@@ -49,7 +49,7 @@ body {
 
 /* --Header-- */
 .menu-border {
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 
 /* .menu-border:hover {
@@ -182,6 +182,7 @@ body {
     padding-bottom: 94px;
 }
 
+
 .section-title {
     margin-top: 0;
     margin-bottom: 50px;
@@ -229,7 +230,8 @@ body {
 
 /* -- Чим ми займаємося -- */
 .section-work {
-    background-color: var(--white-color);
+    padding-top: 0;
+    /* background-color: var(--white-color); */
 }
 
 .work-list {
@@ -393,6 +395,7 @@ img {
 }
 
 .card-description {
+    border: 1px solid #EEEEEE;
     padding: 20px 24px;
 }
 
